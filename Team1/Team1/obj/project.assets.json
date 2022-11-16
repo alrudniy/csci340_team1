@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/maddiekessel/.nuget/packages/": {}
+    "/Users/mamadoumalick/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maddiekessel/Documents - Maddie’s MacBook Pro/JUNIOR 2022-23/CSCI 340 Software Engineering/code/csci340_team1/Team1/Team1/Team1.csproj",
+      "projectUniqueName": "/Users/mamadoumalick/Documents/GitHub/csci340_team1/Team1/Team1/Team1.csproj",
       "projectName": "Team1",
-      "projectPath": "/Users/maddiekessel/Documents - Maddie’s MacBook Pro/JUNIOR 2022-23/CSCI 340 Software Engineering/code/csci340_team1/Team1/Team1/Team1.csproj",
-      "packagesPath": "/Users/maddiekessel/.nuget/packages/",
-      "outputPath": "/Users/maddiekessel/Documents - Maddie’s MacBook Pro/JUNIOR 2022-23/CSCI 340 Software Engineering/code/csci340_team1/Team1/Team1/obj/",
+      "projectPath": "/Users/mamadoumalick/Documents/GitHub/csci340_team1/Team1/Team1/Team1.csproj",
+      "packagesPath": "/Users/mamadoumalick/.nuget/packages/",
+      "outputPath": "/Users/mamadoumalick/Documents/GitHub/csci340_team1/Team1/Team1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/maddiekessel/.nuget/NuGet/NuGet.Config"
+        "/Users/mamadoumalick/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
