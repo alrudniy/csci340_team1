@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Team1
+namespace Team1.Properties.JarryProperties
 {
     public class JarryProperties
     {

@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Views\NewView\" />
+    <None Remove="Properties\JarryProperties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\NewView\" />
+    <Folder Include="Properties\JarryProperties\" />
+  </ItemGroup>
 </Project>
